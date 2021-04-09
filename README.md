@@ -3,6 +3,11 @@
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
   
 </p>
+<p align="center">
+  <a href="mailto:emregoc12asd@gmail.com"><img alt="Mail" title="Mail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> 
+  <a href="https://www.linkedin.com/in/emre-goc/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+  <a href="https://github.com/emregoc"><img alt="GitHub" title="Follow me on Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
 
 # Hi guys 👋  I'm Muhammet BİLGİN
 
