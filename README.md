@@ -17,7 +17,6 @@
 
 
 
-- 🔭 I am studying Computer Engineering at Kütahya Dumlupınar University
 - 👯 I develop myself in software
 - 💬 Ask me about **HTML5** **CSS3** **C#** **Java**
 - 📫 How to reach me: muhammetbilginn@gmail.com
